@@ -1,3 +1,1 @@
 # Projecte_2-Login_Reconeixement_Facial
-# Projecte_2-Login_Reconeixement_Facial
-# Projecte_2-Login_Reconeixement_Facial
