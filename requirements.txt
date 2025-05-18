@@ -1,0 +1,15 @@
+opencv-python
+opencv-python-headless
+Pillow
+face_recognition
+shodan
+beautifulsoup4
+telegram
+python-telegram-bot
+sherlock-project
+httpx
+holehe
+instaloader
+sublist3r
+aiohttp_socks
+ttkbootstrap
