@@ -27,8 +27,6 @@ git clone https://github.com/sleshchuc/Login_Reconeixement_Facial/; cd Projecte_
 ```bash
 pip install -r requirements.txt -v
 ```
-> [!TIP]
-> La instal·lació de la llibreria dlib pot ser lenta, ja que el temps de descàrrega depèn de la memòria de l’equip. Per això, es recomana instal·lar-la amb el paràmetre -v per seguir el progrés de la descàrrega.
 
 ## Execució del programari
 ```bash
@@ -39,3 +37,5 @@ python3 login/main_login.py
 <br>
 
 # 📖 Guia d'ús bàsic
+> [!TIP]
+> La instal·lació de la llibreria dlib pot ser lenta, ja que el temps de descàrrega depèn de la memòria de l’equip. Per això, es recomana instal·lar-la amb el paràmetre -v per seguir el progrés de la descàrrega.
