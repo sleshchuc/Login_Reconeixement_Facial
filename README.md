@@ -20,7 +20,7 @@ sudo apt install git python3-pip python3-tk cmake -y
 ## Copiar el repositori de GitHub
 
 ```bash
-git clone https://github.com/sleshchuc/Login_Reconeixement_Facial/; cd Projecte_2-Login_Reconeixement_Facial
+git clone https://github.com/sleshchuc/Login_Reconeixement_Facial/; cd Login_Reconeixement_Facial
 ```
 
 ## Instal·lar les dependencies
@@ -37,5 +37,32 @@ python3 login/main_login.py
 <br>
 
 # 📖 Guia d'ús bàsic
+<p align="center"><img src="imatges/Pantalla_Inici.png"></p>
+
+<p align="center"><img src="imatges/Boto_register.png"></p>
+
+<p align="center"><img src="imatges/Login_1.png"></p>
+
+<p align="center"><img src="imatges/Boto_accept_register.png"></p>
+
+<p align="center"><img src="imatges/usuari_registrat.png"></p>
+
+<p align="center"><img src="imatges/Pantalla_Inici.png"></p>
+
+<p align="center"><img src="imatges/Boto_inici_sessio.png"></p>
+
+<p align="center"><img src="imatges/Hola_usuari.png"></p>
+
+<p align="center"><img src="imatges/Programari_principal.png"></p>
+
+<p align="center"><img src="imatges/Pantalla_Inici.png"></p>
+
+<p align="center"><img src="imatges/Boto_desconnectar.png"></p>
+
+<p align="center"><img src="imatges/Adeu_usuari.png"></p>
+
+
+# 💡 Consells i Trucs
+[Instal·lar les dependencies](#installar-les-dependencies)
 > [!TIP]
 > La instal·lació de la llibreria dlib pot ser lenta, ja que el temps de descàrrega depèn de la memòria de l’equip. Per això, es recomana instal·lar-la amb el paràmetre -v per seguir el progrés de la descàrrega.
