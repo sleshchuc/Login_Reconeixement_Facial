@@ -1,4 +1,3 @@
-# Login_Reconeixement_Facial
 <h1 align="center">PROJECTE 2 ASIX-MP14 GRUP 4</h1>
 <p align="center">Projecte realitzat per 
     <a href="https://github.com/arnauserrasoriano" target="_blank">Arnau Serra</a>, 
