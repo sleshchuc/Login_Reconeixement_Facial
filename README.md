@@ -60,9 +60,7 @@ python3 login/main_login.py
 
 
 **3. Tancar aplicació**
-<p align="center"><img src="imatges/Programari_principal.png"></p>
-
-<p align="center"><img src="imatges/Lupa.png"></p>
+<p align="center"><img src="imatges/Lupa_Programa-rbg.png"></p>
 
 <p align="center"><img src="imatges/Pantalla_Inici.png"></p>
 
