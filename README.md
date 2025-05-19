@@ -37,6 +37,8 @@ python3 login/main_login.py
 <br>
 
 # 📖 Guia d'ús bàsic
+
+## Registrar-se i iniciar sessió
 <p align="center"><img src="imatges/Pantalla_Inici.png"></p>
 
 <p align="center"><img src="imatges/Boto_register.png"></p>
@@ -54,6 +56,10 @@ python3 login/main_login.py
 <p align="center"><img src="imatges/Hola_usuari.png"></p>
 
 <p align="center"><img src="imatges/Programari_principal.png"></p>
+
+## Tancar aplicació
+
+<p align="center"><img src="imatges/Lupa.png"></p>
 
 <p align="center"><img src="imatges/Pantalla_Inici.png"></p>
 
