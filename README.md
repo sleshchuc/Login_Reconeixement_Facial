@@ -10,11 +10,18 @@
 
 ## 🧪 Instal·lació de la aplicació
 
-1. sudo apt install git python3-pip python3-tk cmake -y
-2. git clone https://github.com/sleshchuc/Login_Reconeixement_Facial/; cd Projecte_2-Login_Reconeixement_Facial
-3. pip install -r requirements.txt -v
+```bash
+sudo apt install git python3-pip python3-tk cmake -y
+
+git clone https://github.com/sleshchuc/Login_Reconeixement_Facial/; cd Projecte_2-Login_Reconeixement_Facial
+
+pip install -r requirements.txt -v
+```
 > [!TIP]
 > El paràmetre blaskdnj
-4. python3 login/main_login.py
+
+```bash
+python3 login/main_login.py
+```
 
 ## 📖 Guia d'ús bàsic
