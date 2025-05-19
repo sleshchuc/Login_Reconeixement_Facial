@@ -8,20 +8,34 @@
 <p align="center"><img src="imatges/logo.PNG"></p>
 
 
-## 🧪 Instal·lació de la aplicació
+# 🧪 Instal·lació de la aplicació
 
+<details>
+<summary>Clica'm per a veure el procés d'instal·lació</summary>
+
+## Instal·lació de les eines clau per al desenvolupament del software
 ```bash
 sudo apt install git python3-pip python3-tk cmake -y
+```
+## Copiar el repositori de GitHub
 
+```bash
 git clone https://github.com/sleshchuc/Login_Reconeixement_Facial/; cd Projecte_2-Login_Reconeixement_Facial
+```
 
+## Instal·lar les dependencies
+```bash
 pip install -r requirements.txt -v
 ```
 > [!TIP]
-> El paràmetre blaskdnj
+> La instal·lació de la llibreria dlib pot ser lenta, ja que el temps de descàrrega depèn de la memòria de l’equip. Per això, es recomana instal·lar-la amb el paràmetre -v per seguir el progrés de la descàrrega.
 
+## Execució del programari
 ```bash
 python3 login/main_login.py
 ```
+</details>
 
-## 📖 Guia d'ús bàsic
+<br>
+
+# 📖 Guia d'ús bàsic
