@@ -69,7 +69,7 @@ python3 login/main_login.py
 <p align="center"><img src="imatges/Adeu_usuari.png"></p>
 
 
-# 💡 Consells i Trucs
-[Instal·lar les dependencies](#installar-les-dependencies)
-> [!TIP]
+# 💡 Consells
+
+> [!NOTE]
 > La instal·lació de la llibreria dlib pot ser lenta, ja que el temps de descàrrega depèn de la memòria de l’equip. Per això, es recomana instal·lar-la amb el paràmetre -v per seguir el progrés de la descàrrega.
